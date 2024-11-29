@@ -1,0 +1,29 @@
+body{
+    margin: 0px;
+    background-color: rgb(243, 243, 243);
+}
+
+p{
+    font-family: 'Segoe UI', Tahoma;
+}
+
+.btn-filled{
+    background-color: gold;
+    color: black;
+    font-weight: bold;
+    border: none;
+    padding-inline: 10%;
+    padding-block: 10px;
+    border-radius: 10px;
+    font-size: 24px;
+}
+
+.btn-outlined{
+    
+    color: black;
+    border: 3px solid black;
+    padding-inline: 10%;
+    padding-block: 10px;
+    border-radius: 10px;
+    font-size: 24px;
+}
